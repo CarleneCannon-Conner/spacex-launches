@@ -120,3 +120,17 @@
     flex-direction: column;
   }
 }
+
+.buttonContainer {
+  display: flex;
+  width: 90%;
+  max-width: 500px;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.buttonContainer button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
