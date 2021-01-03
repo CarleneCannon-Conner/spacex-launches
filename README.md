@@ -12,4 +12,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-I have made changes that initally followed this [https://www.freecodecamp.org/news/how-to-fetch-graphql-data-in-next-js-with-apollo-graphql/](freecodecamp) tutorial. Then continued making my own changes to further my understanding of the technologies involved 
+I have made changes that initally followed this [freecodecamp](https://www.freecodecamp.org/news/how-to-fetch-graphql-data-in-next-js-with-apollo-graphql/) tutorial. Then continued making my own changes to further my understanding of the technologies involved 
