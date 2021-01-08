@@ -78,7 +78,7 @@ export default function Home({initalLaunches}) {
         </h1>
 
         <p className={styles.description}>
-          A React app that fetching GraphQL Data in Next.js with Apollo GraphQL
+          A React app that fetches GraphQL Data in Next.js with Apollo GraphQL
         </p>
 
         <div className={styles.grid}>
